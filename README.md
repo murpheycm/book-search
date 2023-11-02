@@ -46,7 +46,7 @@
 
 
 ## Usage
-!["screenshot"](Develop/screenshot.JPG)
+!["screenshot"](screenshot.JPG)
 
 ## Installation
 1. npm i
