@@ -16,6 +16,5 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
-  },
-  "proxy": "http://localhost:3000"
+  }
 }
