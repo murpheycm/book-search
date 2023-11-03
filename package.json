@@ -17,8 +17,5 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^8.2.2"
-  },
-  "dependencies": {
-    "npm": "^10.2.3"
   }
 }
